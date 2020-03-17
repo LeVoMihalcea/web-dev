@@ -22,14 +22,14 @@
 .left {
     left: 0;
     background-color: #222831;
-    width: 10%;
+    width: 12%;
     overflow: visible;
 }
 
 .right {
     right: 0;
     background-color: #393e46;
-    width: 90%;
+    width: 88%;
     z-index: -1;
 }
 
